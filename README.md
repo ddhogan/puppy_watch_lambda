@@ -1,4 +1,4 @@
-# Puppy Lambda
+# Puppy Watch Lambda
 
 This mini-project provides an AWS Lambda that creates a JSON document from a specific endpoint and uploads it to a S3 bucket.
 
